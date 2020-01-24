@@ -1,1 +1,1 @@
-# kalkulator
+# kalkulatori
